@@ -1,4 +1,4 @@
 # BA-tarea-inversa
 Tarea
 
-AB es mejor que BA
+AB es mejor que CA
